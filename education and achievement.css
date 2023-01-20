@@ -1,0 +1,97 @@
+html{font-family: 'Poppins', sans-serif;}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    top: 0;
+    width: 90%;
+   
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: blue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  {/style}
+  {/head}
+  {body}
+  
+  <ul>
+    <li><a class="active" href="#home">Home</a></li>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="personal.html">Personal</a></li>
+    <li><a href="education.html">Education</a></li>
+    <li><a href="experience.html">Experience</a></li>
+    <li><a href="achievement.html">Achievement</a></li>
+    <li><a href="skills.html">Skills</a></li>
+    <li><a href="contact.html">Contact</a></li>
+  </ul>
+
+
+
+  h1{background-color: lightgrey;
+    width: 600px;
+    border: 10px solid purple;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 270px;
+    margin-right: 150px;}
+
+
+
+p{background-color: lightgrey;
+    width: 300px;
+    border: 10px solid blue;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 150px;
+    margin-right: 150px;}
+
+{background-color: white;
+    width: 600px;
+    border: 10px solid purple;
+    padding: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 250px;
+    margin-right: 250px;}
+
+    td {
+      text-align: center;
+    }
+
+    thead {
+      background-color: blue;
+      color: white;
+    }
+
+table, th, td {
+  width: 600px;
+  border: 0px solid;
+  border-color: gray;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  margin-right: 170px;
+  margin-left: 300px;
+}
+
+tbody{
+  background-color: lightgray;
+  color: black;
+}
+
